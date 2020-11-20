@@ -12,7 +12,6 @@
 * ⚙️ J'utilise quotidiennement: `.html`, `.css`, `.psd`, `.ai`, `.aep`, etc.
 
 
-##### SUIVEZ-MOI
-Mon <img width="2.5%" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+##### SUIVEZ-MOI sur <img width="2.5%" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 
 ###### Mon [LinkedIn](https://www.linkedin.com/in/louis-milhes/)
