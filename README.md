@@ -2,12 +2,13 @@
 
 ### Je suis étudiant en bachelor Chef de Projet digital, à Nantes (44).
 
-### <div align="center"> <h1>MAINTENANT</h1> </div>
+### MAINTENANT
 
 * Je suis actuellement à la recherche d'un stage dans le domaine du web-marketing, à compter de mi-Avril 2021, pour une durée de 2 à 5 mois.<br>
 * N'hésitez pas à partager mon [CV] et mon [LinkedIn](https://www.linkedin.com/in/louis-milhes/)
+
 ##### BIO
-* 💻 J'étudie actuellement à Digital Campus.
+* 💻 J'étudie actuellement à [Digital Campus](https://www.digital-campus.fr/).
 * 🌱 J'apprend actuellement comment maquetter un site et en l'intégrant en **HTML**, **CSS** et **JS**.
 * ⚙️ J'utilise quotidiennement: `.html`, `.css`, `.psd`, `.ai`, `.aep`, etc.
 * 📌 Je collabore avec la start-up [CapSense](https://agence-api.ouest-france.fr/societe/capesense) pour leur créer leur solution graphique et marketing.
