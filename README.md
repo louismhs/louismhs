@@ -2,9 +2,9 @@
 
 ### Je suis étudiant en bachelor Chef de Projet digital, à Nantes (44).
 
-##### MAINTENANT
+<div align="center"> <h1>MAINTENANT</h1> </div>
 
-* Actuellement à la recherche d'un stage dans le domaine du web-marketing, à compter de mi-Avril 2021, pour une durée de 2 à 5 mois.<br>
+* Je suis actuellement à la recherche d'un stage dans le domaine du web-marketing, à compter de mi-Avril 2021, pour une durée de 2 à 5 mois.<br>
 * N'hésitez pas à partager mon [CV] et mon [LinkedIn](https://www.linkedin.com/in/louis-milhes/)
 ##### BIO
 * 💻 J'étudie actuellement à Digital Campus.
