@@ -2,8 +2,13 @@
 
 ### Je suis étudiant en bachelor Chef de Projet digital, à Nantes (44).
 
-- 💻 J'étudie actuellement à Digital Campus.
-- 🌱 I’m currently learning ...
+##### MAINTENANT
+
+*en cours*
+
+##### BIO
+* 💻 J'étudie actuellement à Digital Campus.
+* 🌱 J'apprend actuellement comment maquetter un site et en l'intégrant en **HTML**, **CSS** et **JS**.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
