@@ -14,4 +14,6 @@
 
 ##### SUIVEZ-MOI
 
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> 
 
+####### Mon [LinkedIn](https://www.linkedin.com/in/louis-milhes/)
