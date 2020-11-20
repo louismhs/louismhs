@@ -13,6 +13,6 @@
 
 
 ##### SUIVEZ-MOI
-<img width="5%" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+<img width="2,5%" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 
 ###### Mon [LinkedIn](https://www.linkedin.com/in/louis-milhes/)
