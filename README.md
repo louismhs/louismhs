@@ -4,7 +4,7 @@
 
 ##### MAINTENANT
 
-Actuellement à la recherche d'un stage dans le domaine du web-marketing, à compter de mi-Avril 2021, pour une durée de 2 à 5 mois.
+Actuellement à la recherche d'un stage dans le domaine du web-marketing, à compter de mi-Avril 2021, pour une durée de 2 à 5 mois.<br>
 <img width="2.5%" src="https://www.flaticon.com/svg/static/icons/svg/271/271228.svg"> N'hésitez pas à partager mon [CV] et mon [LinkedIn](https://www.linkedin.com/in/louis-milhes/)
 ##### BIO
 * 💻 J'étudie actuellement à Digital Campus.
